@@ -2,6 +2,8 @@
 
 Starting Laravel with [Laracasts Tutorial - Laravel 8 From Scratch](https://laracasts.com/series/laravel-8-from-scratch)
 
+---
+
 [Section 1 - Setup](https://github.com/daomapsieucap/laracasts/blob/master/Section%201%20-%20Setup.md)
 
 [Section 2 - The Basics](https://github.com/daomapsieucap/laracasts/blob/master/Section%202%20-%20The%20Basics.md)
